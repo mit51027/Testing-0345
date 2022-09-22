@@ -8,6 +8,10 @@ public void m1()
 System.out.println(" hello m1 method ");
 }
 
+public void m50()
+{
+System.out.println(" hello m50 method ");
+}
 
 
 
